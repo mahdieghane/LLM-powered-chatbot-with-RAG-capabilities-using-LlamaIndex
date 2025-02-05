@@ -1,0 +1,1 @@
+Chatbot using [LlamaIndex](https://www.llamaindex.ai/) to supplement OpenAI GPT-3.5 Large Language Model (LLM) with the [LlamaIndex Documentation](https://gpt-index.readthedocs.io/en/latest/index.html).
